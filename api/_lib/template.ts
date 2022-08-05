@@ -17,8 +17,8 @@ const mono = readFileSync(`${__dirname}/../_fonts/Vera-Mono.woff2`).toString(
 )
 
 const themes: Record<Theme, { background: string; foreground: string }> = {
-  'finance-midnight': {
-    background: `url(https://social-cards-watershedclimate.vercel.app/_themes/finance-midnight.png)`,
+  'og-blur': {
+    background: `url(https://social-cards-watershedclimate.vercel.app/_themes/og-blur.png)`,
     foreground: 'var(--color-new-day)',
   },
   'finance-ice': {
