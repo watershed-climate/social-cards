@@ -4,7 +4,7 @@ export type FileType = 'png' | 'jpeg'
 const THEMES: string[] = [
   'energize',
   'finance-new-day',
-  'finance-midnight',
+  'finance-ice',
   'og-downward',
   'og-drift',
   'og-blur',
