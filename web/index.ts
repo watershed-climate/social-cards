@@ -6,9 +6,9 @@ const THEMES: string[] = [
   'energize',
   'finance-new-day',
   'finance-ice',
-  'finance-midnight',
   'og-downward',
   'og-drift',
+  'og-blur',
 ]
 
 interface ImagePreviewProps {

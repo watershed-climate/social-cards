@@ -3,11 +3,11 @@ export type FileType = 'png' | 'jpeg'
 // Copy to web/index
 const THEMES: string[] = [
   'energize',
-  'finance-ice',
-  'finance-midnight',
   'finance-new-day',
+  'finance-ice',
   'og-downward',
   'og-drift',
+  'og-blur',
 ]
 export type Theme = typeof THEMES[number]
 
